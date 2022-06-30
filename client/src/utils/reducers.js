@@ -18,7 +18,7 @@ const initialState = {
   cartOpen: false
 };
 
-export default (state=initialState, action) => {
+const reducers = (state=initialState, action) => {
   switch (action.type) {
     case UPDATE_PRODUCTS:
       return {
@@ -91,3 +91,4 @@ export default (state=initialState, action) => {
       return state;
   }
 };
+export default reducers;
