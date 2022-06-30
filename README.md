@@ -2,9 +2,9 @@
 
 This project was created as part of a React Challenge for the Trilogy Education team.
 
-It is hosted on: [Book Search Engine Repository](https://github.com/michaelzap94/trilogy-challenge-week3-shop).
+It is hosted on: [Shop Repository](https://github.com/michaelzap94/trilogy-challenge-week3-shop).
 
-It can be found live on: [Book Search Engine live](https://mz-shop-react.herokuapp.com/).
+It can be found live on: [Shop live](https://mz-shop-react.herokuapp.com/).
 
 You can access the live apollo server here: [Apollo server](https://mz-shop-react.herokuapp.com/graphql).
 
